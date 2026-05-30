@@ -1,0 +1,6 @@
+{
+  "title": "Mirror Anomaly Clone",
+  "type": "servercontent",
+  "tags": ["fun", "roleplay"],
+  "ignore": ["*.psd", "*.vcproj", "*.svn*"]
+}
